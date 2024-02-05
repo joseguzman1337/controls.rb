@@ -9,7 +9,7 @@ info:
   x-cortex-tag: controls-rb
   x-cortex-type: service
   x-cortex-domain-parents:
-  - tag: threatintel
+  - tag: threatintel-rd
 openapi: 3.0.1
 servers:
 - url: "/"
