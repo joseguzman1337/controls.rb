@@ -1,5 +1,0 @@
-language: ruby
-rvm:
-  - 2.1.0
-env:
-  - CONTROLS_API_ENDPOINT="https://controlsinsight.apiary.io/api/insight/controls"
